@@ -1,2 +1,2 @@
 # my-site
-information: This is the first version of my first site. 
+This is the first version of my first site. 
